@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "category": "Road Signs",
+      "image": "/assets/stop-sign.png",
+      "question": "What does this sign mean?",
+      "options": ["Yield", "Do Not Enter", "Stop", "One Way"],
+      "answer": "Stop"
+    },
+    {
+      "id": 2,
+      "category": "Rules of the Road",
+      "image": null,
+      "question": "When approaching a flashing red light, what should you do?",
+      "options": ["Speed up", "Stop", "Honk and go", "Slow down only"],
+      "answer": "Stop"
+    }
+  ]
+  
